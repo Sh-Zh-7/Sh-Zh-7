@@ -6,6 +6,6 @@
 - ⚡ Currently I'm interested in HPC.
 - 💬 Please advice through my email.
 
- <img src='https://github-readme-stats.vercel.app/api?username=Sh-Zh-7&show_icons=true&count_private=true' height=190 align="left" />
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-Zh-7&layout=compact' height=190 align="right"/>
+ <img src='https://github-readme-stats.vercel.app/api?username=Sh-Zh-7&show_icons=true&count_private=true' height=160 align="left" />
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-Zh-7&layout=compact' height=160 align="right"/>
 
