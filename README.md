@@ -7,5 +7,5 @@
 - 💬 Please advice through my email.
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Sh-Zh-7&show_icons=true&count_private=true&hide_border=true" alt="ShZh7's Github stats" align="center" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-Zh-7&layout=compact&hide_border=true&hide=jupyter%20notebook" alt="ShZh7's language preference" align="center" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Sh-Zh-7&show_icons=true&count_private=true&hide_border=true" alt="ShZh7's Github stats" align="center" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-Zh-7&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=6" alt="ShZh7's language preference" align="center" /> |
 | ------------- | ------------- |
